@@ -14,7 +14,7 @@ export default {
       </p>
       <p>
         Made with <i class="fa fa-heart"></i> By Laedan <br>
-        <a class="icon" href="https://github.com/laeanthehuman/vue-pokedex">
+        <a class="icon" href="https://github.com/laedanthehuman/vue-pokedex">
           <i class="fa fa-github"></i>
         </a>
       </p>
