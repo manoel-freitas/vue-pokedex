@@ -29,7 +29,7 @@
       },
     },
     mounted() {
-      axios.get('http://pokeapi.co/api/v2/pokemon/')
+      axios.get('https://pokeapi.co/api/v2/pokemon/')
         .then(response => this.pokes_info = response.data)
         .then(() => this.get_pokes());
     },
